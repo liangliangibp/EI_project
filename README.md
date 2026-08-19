@@ -1,5 +1,5 @@
 # Code Availability
-This directory contains the code for EPRIs construction associated with the paper: Enhancer RNA regulates transcriptional bursting through Alu-mediated RNA interactions.
+This directory contains the code for EIRIs construction associated with the paper: Enhancer RNA regulates transcriptional bursting through Alu-mediated RNA interactions.
 
 System Requirements
 Linux
